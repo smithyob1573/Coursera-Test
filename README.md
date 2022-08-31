@@ -1,40 +1,6 @@
-<!doctype html>
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-<title>Bluetooth Motobike Helmets	
-</title>	
 <style>
-	p {
-		color: black;
-		font-size: 20px;
-		width: 600px;}
-    h1, h2, h3, h4 {
-    	color: firebrick;
-    	font-size: 40px;
-    	text-align: center;}
-    #mainpoint {
-    	font-size: 20px;
-    	font-weight: bold;}
-    li {
-    	font-weight: bold;
-        list-style: none;}
-    .highlight {
-        background-color: black;
-        color: red;}
-    header li {
-    	color: black;
-    	list-style: none;
-        background-color: greenyellow;
-        border: 1px blue;
-        display: block;
-        width: 450px;
-        margin-bottom: 1px;}
-    a:hover {
-    	background-color: red;
-    
-</style>
+p  {color: red;}
+
 <header>
 	<h1 class="highlight">Bluetooth Motorbike Helmets </h1>
 <p>Your crash course on bluetooth motorbike helmets!<p>
