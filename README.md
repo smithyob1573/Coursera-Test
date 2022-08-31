@@ -1,5 +1,4 @@
-<style>
-p  {color: red;}
+
 
 <header>
 	<h1 class="highlight">Bluetooth Motorbike Helmets </h1>
